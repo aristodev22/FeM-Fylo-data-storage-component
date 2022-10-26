@@ -17,6 +17,13 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 - [Live Site URL](https://aristodev22.github.io/FeM-Fylo-data-storage-component)
 
+
+### Screenshot
+
+![](./screenshot.PNG)
+
+![](./screenshot-mobile.PNG)
+
 ## My process
 
 ### Built with
